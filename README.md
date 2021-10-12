@@ -33,7 +33,7 @@ Furthermore, I will be learning in future:
 • Docker and Kubernetes
 
 
-# Tech Stack
+# Tech Stack:
 
 <p align="left">
  <a href="#">

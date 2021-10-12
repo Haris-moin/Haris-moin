@@ -32,7 +32,6 @@ Furthermore, I will be learning in future:
 • CI/CD and TDD
 • Docker and Kubernetes
 
-Aside from my technical overview, I'm in 5th semester, pursuing Computer Science from SZABIST Karachi Campus.
 
 # Tech Stack
 

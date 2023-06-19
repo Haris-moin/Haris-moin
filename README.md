@@ -16,7 +16,7 @@ Catch me on
 
 Hi, This is Haris-moin! 👋
 
-A Front-end Intern @ Nisum, A top IT consulting company. Furthermore, I'm an undergrad of CS and a tech enthusiast. I spend my time learning and practicing competitive skills, gaining knowledge and building projects. Moreover, I am currently focused in learning:
+A Front-end developer @ Nisum, A top IT consulting company. Furthermore, I'm an undergrad of CS and a tech enthusiast. I spend my time learning and practicing competitive skills, gaining knowledge and building projects. Moreover, I am currently focused in learning:
 
 • Web Development
 • React
